@@ -3,9 +3,9 @@ greet = (name) => {
         return "Hello, there!"
     }
     if (name.toUpperCase() === name) {
-        return "HELLO" + name;
+        return "HELLO " + name + "!";
     }   
-    else{
+    else {
         return "Hello, " + name;
     }
 }
