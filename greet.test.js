@@ -12,7 +12,7 @@ describe('test greet()', () => {
       }); 
       
       test('outputs the all caps for shouting', () => {
-        expect(greet("JOSE")).toBe('HELLO JOSE!');
+        expect(greet('JOSE')).toBe('HELLO JOSE!');
       }); 
 
       test('outputs greeting for two names', () => {
