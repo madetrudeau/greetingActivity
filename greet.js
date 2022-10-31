@@ -1,4 +1,4 @@
-const  greet = (name) => {
+greet = (name) => {
     if (name === null){
         return "Hello, there!"
     }    
