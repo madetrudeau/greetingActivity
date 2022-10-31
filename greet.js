@@ -1,6 +1,8 @@
-var greet = (name) => {
+const  greet = (name) => {
     if (name === null){
         return "Hello, there!"
     }    
-    else{"Hello, " + name;};
+    else{
+        return "Hello, " + name;
+    }
 }
