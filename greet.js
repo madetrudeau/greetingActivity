@@ -4,9 +4,7 @@ greet = (name) => {
     }
     if (name.upper() === true) {
         return "HELLO" + name;
-    } else {
-        
-    }    
+    }   
     else{
         return "Hello, " + name;
     }
