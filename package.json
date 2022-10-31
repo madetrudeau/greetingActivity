@@ -1,0 +1,23 @@
+{
+  "name": "greetingactivity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greet.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madetrudeau/greetingActivity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madetrudeau/greetingActivity/issues"
+  },
+  "homepage": "https://github.com/madetrudeau/greetingActivity#readme",
+  "dependencies": {
+    "course-utilities": "^1.0.0",
+    "jest": "^29.2.2"
+  }
+}
