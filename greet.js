@@ -2,7 +2,7 @@ greet = (name) => {
     if (name === null){
         return "Hello, there!"
     }
-    if (name.upper() === true) {
+    if (name.toUpperCase() === name) {
         return "HELLO" + name;
     }   
     else{
