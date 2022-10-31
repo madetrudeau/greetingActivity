@@ -1,1 +1,1 @@
-var greet = (name) => "Hello, ${name}";
+var greet = (name) => "Hello, " + name;
